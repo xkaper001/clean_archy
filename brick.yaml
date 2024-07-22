@@ -1,0 +1,17 @@
+name: clean_archy
+description: Create Clean Architecture project structure
+
+repository: https://github.com/xkaper001/clean_archy.git
+
+version: 0.1.0
+
+environment:
+  mason: ">=0.1.0-dev.57 <0.1.0"
+
+vars:
+  features:
+    type: list
+    description: list of features
+    default: [auth, home]
+    prompt: List of features to add (lowercase)?
+    separator: ","
