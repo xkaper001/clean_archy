@@ -3,7 +3,7 @@ description: Create Clean Architecture project structure
 
 repository: https://github.com/xkaper001/clean_archy.git
 
-version: 0.1.0+1
+version: 0.1.0+2
 
 environment:
   mason: ">=0.1.0-dev.57 <0.1.0"

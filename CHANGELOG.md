@@ -1,6 +1,10 @@
+# 0.1.0+2
+
+- Updated dependencies
+
 # 0.1.0+1
 
-- Updated clean_archy_feature to 0.1.1
+- Updated dependencies
 
 # 0.1.0
 

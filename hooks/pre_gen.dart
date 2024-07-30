@@ -14,7 +14,7 @@ Future<void> run(HookContext context) async {
   final target = DirectoryGeneratorTarget(directory);
 
   // Make Brick
-  final brick = Brick.version(name: 'clean_archy_feature', version: '0.1.1');
+  final brick = Brick.version(name: 'clean_archy_feature', version: '0.1.2');
   final generator = await MasonGenerator.fromBrick(brick);
   for (var feature in features) {
     // Var for the feature name
